@@ -1,10 +1,16 @@
-![Me in a kilt!](assets/images/me.jpg)
 
-## I'm an aspiring Full Stack Web Developer. I started my coding journey by quitting my job, selling my house, and enrolling in a coding Bootcamp at the University of Utah. My expected graduation date is in October of 2021. I have soaked in so much great knowledge and I am excited to start my career after graduation.  <br>
+![That's me, Matt!](assets/images/me2.jpg)
 
-## I enjoy the challenge that coding offers and the feeling of finding sleek and elegant solutions. <br>
+# Welcome to my GitHub Page!
 
-## Some of the great skills I have learned so far are: Heroku, HTML, CSS, Bootstrap, JavaScript, Node.js, JQuery, Jest, CDN’s, Web API’s, Third Party API’s, Server-Side API’s, Object-Oriented Programming paradigm, Express.js, SQL, Sequelize, bcrypt, Model-View-Controller paradigm, handlebars.js, program documentation comprehension, README generation and comprehension, problem solving through debugging, refactoring code, and search engine utilization   <br> <br>
+### I'm an aspiring Full Stack Web Developer. I started my coding journey by quitting my job, selling my house, and enrolling in a coding Bootcamp at the University of Utah. My expected graduation date is in October of 2021. I have soaked in so much great knowledge and I am excited to start my career after graduation.  
+<br>
+
+### I enjoy the challenge that coding offers and the feeling of finding sleek and elegant solutions. 
+<br>
+
+### Some of the great skills I have learned so far are: Heroku, HTML, CSS, Bootstrap, JavaScript, Node.js, JQuery, Jest, CDN’s, Web API’s, Third Party API’s, Server-Side API’s, Object-Oriented Programming paradigm, Express.js, SQL, Sequelize, bcrypt, Model-View-Controller paradigm, handlebars.js, program documentation comprehension, README generation and comprehension, problem solving through debugging, refactoring code, and search engine utilization   
+<br>
 
 <table>
   <thead>
