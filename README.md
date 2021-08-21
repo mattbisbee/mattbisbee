@@ -1,5 +1,5 @@
 
-![That's me, Matt!](assets/images/me2.jpg)
+![That's me, Matt!](assets/images/me1.jpg)
 
 # Welcome to my GitHub Page!
 
